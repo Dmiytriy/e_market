@@ -1,5 +1,5 @@
 # Аттестационная работа
-### Python 3.8, Django 4.1.7, Postgres
+### Python 3.10, Django 4.2.1, Postgres 15
 
 * Установить зависимости через poetry
 * создать файл .env
